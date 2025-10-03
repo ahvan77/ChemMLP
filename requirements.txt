@@ -1,0 +1,8 @@
+PyQt5
+numpy
+pandas
+scikit-learn
+torch
+rdkit  # If used in dependencies
+matplotlibmatplotlibmatplotlib
+# Add any other libraries from your imports, e.g., matplotlib, sklearn.metrics, etc.
